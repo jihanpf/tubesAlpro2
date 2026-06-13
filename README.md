@@ -1,2 +1,2 @@
 # tubesAlpro2
-Aplikasi manajamen dan tracking kegiatan freelance
+APLIKASI MANAJEMEN PENGUMPULAN SAMPAH LINGKUNGAN (WASTE-TRACK)
